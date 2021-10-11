@@ -41,4 +41,4 @@
 </details>
 
 [instagram]: https://instagram.com/retsehc.niw
-[linkedin]: https://www.linkedin.com/in/john-winchester-a3772a222
+[linkedin]: https://www.linkedin.com/in/john-winchester-domingo-a3772a222/
