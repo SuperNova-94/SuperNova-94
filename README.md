@@ -1,5 +1,17 @@
 ### Hi there, I'm John 👋
 
+<!-- ////////////////// START README FILE /////////////////// -->
+
+<h1 align="center">I'm Vinojan Veerapathirathasan</h1>
+<h3 align="center">Undergraduate of Software Engineering, University of Kelaniya.</h3>
+
+<hr/>
+
+<!-- Counter of profile viewers -->
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=vinojan1999&label=Profile%20views&color=0e75b6&style=flat" alt="vinojan1999" /> 
+</p>
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
