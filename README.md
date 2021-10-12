@@ -6,9 +6,8 @@
 - ⚡ Fun fact: I love to play the piano and video games 😄
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/john-winchester-domingo-a3772a222/" target="blank"><img align="center" src="img/linkedin.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/retsehc.niw" target="blank"><img align="center" src="img/instagram.svg" height="30" width="40" /></a>
 
 <br />
 
@@ -40,5 +39,5 @@
 
 </details>
 
-[instagram]: https://instagram.com/retsehc.niw
-[linkedin]: https://www.linkedin.com/in/john-winchester-domingo-a3772a222/
+<!-- [instagram]: https://instagram.com/retsehc.niw
+[linkedin]: https://www.linkedin.com/in/john-winchester-domingo-a3772a222/ -->
