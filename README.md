@@ -8,7 +8,7 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/john-winchester-domingo-a3772a222/" target="blank"><img align="center" src="img/linkedin.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/retsehc.niw" target="blank"><img align="center" src="img/instagram.svg" height="30" width="40" /></a>
-
+<br />
 
 ### Languages and Tools:
 
