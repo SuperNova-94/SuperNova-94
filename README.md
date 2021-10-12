@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm John</h1>
 <h3 align="center">A Full-Stack Web Developer who's crazy about code!</h3>
-<img width="40%" height="45%" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif" />
+<img width="40%" height="45%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" />
 
 
 <hr/>
