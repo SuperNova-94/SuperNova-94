@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/john-winchester-domingo-a3772a222/" target="blank"><img align="center" src="img/linkedin.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/retsehc.niw" target="blank"><img align="center" src="img/instagram.svg" height="30" width="40" /></a>
 
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
