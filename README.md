@@ -1,9 +1,9 @@
-### Hi there, I'm John 👋
+### Hi there 👋
 
 <!-- ////////////////// START README FILE /////////////////// -->
 
-<h1 align="center">I'm Vinojan Veerapathirathasan</h1>
-<h3 align="center">Undergraduate of Software Engineering, University of Kelaniya.</h3>
+<h1 align="center">I'm John</h1>
+<h3 align="center">A Full-Stack Web Developer who's crazy about code!</h3>
 
 <hr/>
 
