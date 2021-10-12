@@ -9,7 +9,7 @@
 
 <!-- Counter of profile viewers -->
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=vinojan1999&label=Profile%20views&color=0e75b6&style=flat" alt="vinojan1999" /> 
+<img src="https://komarev.com/ghpvc/?SuperNova-94&label=Profile%20views&color=0e75b6&style=flat" alt="John" /> 
 </p>
 
 - 🌱 I’m currently learning everything 🤣
