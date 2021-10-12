@@ -18,7 +18,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
 />
-<a href="https://www.python.org" target="_blank"> <img src="img/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="img/python.svg" alt="python" width="26px"/> </a> 
 
 <br />
 <br />
