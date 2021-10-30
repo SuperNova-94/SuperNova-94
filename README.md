@@ -50,10 +50,9 @@
 <!--END_SECTION:activity-->
 
 </details>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperNova-94&repo=github-readme-stats)](https://github.com/SuperNova-94/edge-ledger-site)
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperNova-94)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
