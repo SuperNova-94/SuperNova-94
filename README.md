@@ -45,12 +45,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperNova-94&repo=github-readme-stats)](https://github.com/SuperNova-94/edge-ledger-site)
+[
 
 <!--END_SECTION:activity-->
 
 </details>
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperNova-94&repo=github-readme-stats)](https://github.com/SuperNova-94/edge-ledger-site)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
