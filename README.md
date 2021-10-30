@@ -52,9 +52,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNova-94)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
-
-<!-- [instagram]: https://instagram.com/retsehc.niw
-[linkedin]: https://www.linkedin.com/in/john-winchester-domingo-a3772a222/ -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNova-94)](https://github.com/anuraghazra/github-readme-stats)
