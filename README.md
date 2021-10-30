@@ -38,7 +38,7 @@
 <br />
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperNova-94&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperNova-94&show_icons=true&theme=vision-friendly-dark)
 
 
 <details>
@@ -52,7 +52,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNova-94)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
