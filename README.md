@@ -55,5 +55,5 @@
 
 
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNova-94&layout=compact)](https://github.com/SuperNova-94//blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNova-94&layout=compact)
 
