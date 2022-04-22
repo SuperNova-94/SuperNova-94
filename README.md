@@ -3,7 +3,7 @@
 <!-- ////////////////// START README FILE /////////////////// -->
 
 <h1 align="center">I'm John</h1>
-<h3 align="center">A Full-Stack Web Developer who's crazy about code!</h3>
+<h3 align="center">A Web Developer who's crazy about code!</h3>
 
 
 
