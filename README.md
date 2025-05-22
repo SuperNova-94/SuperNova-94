@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To build more projects....
-- ⚡ Fun fact: I love to play the piano and video games 😄
+- ⚡ Fun fact: I love to play the piano and video games
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/john-winchester-domingo-a3772a222/" target="_blank"><img align="center" src="img/linkedin.svg" height="30" width="40" /></a>
