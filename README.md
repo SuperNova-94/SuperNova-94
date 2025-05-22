@@ -14,7 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=SuperNova-94&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
-- 🌱 You'll currently find me coding in a place with 4 walls 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To build more projects....
 - ⚡ Fun fact: I love to play the piano and video games 😄
